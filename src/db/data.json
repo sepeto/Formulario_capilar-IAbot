@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "label": "¿Qué aspecto tiene su pérdida de pelo?",
+      "options": [
+        {
+          "id": 1,
+          "src_img": "Hair_Loss_1.svg",
+          "label": null 
+        },
+        {
+          "id": 2,
+          "src_img": "Hair_Loss_2.svg",
+          "label": null
+        },
+        {
+          "id": 3,
+          "src_img": "Hair_Loss_3.svg",
+          "label": null 
+        },
+        {
+          "id": 4,
+          "src_img": null,
+          "label": "Mi cabello perdido es diferente"
+        }
+      ]
+    },
+    {
+      "label": "¿Cuál es el criterio más importante para usted a la hora de elegir un médico?",
+      "options": [
+        {
+          "id": 71,
+          "src_img": "Quality_&_Service.svg",
+          "label": "Calidad y servicio" 
+        },
+        {
+          "id": 72,
+          "src_img": "Low_Price.svg",
+          "label": "Precios bajos"
+        },
+        {
+          "id": 73,
+          "src_img": "Distance_to_the_Doctor.svg",
+          "label": "Distancia del médico"
+        }
+      ]
+    },
+    {
+      "label": "¿Estarías dispuesto a ir al extranjero?",
+      "options": [
+        {
+          "id": 91,
+          "src_img": "Flag_Europe.svg",
+          "label": "Si" 
+        },
+        {
+          "id": 92,
+          "src_img": "Spain.svg",
+          "label": "No"
+        },
+        {
+          "id": 93,
+          "src_img": "Uncertain.svg",
+          "label": "No estoy seguro"
+        }
+      ]
+    },
+    {
+      "label": "¿Cuándo quiere su trasplante capilar?",
+      "options": [
+        {
+          "id": 61,
+          "src_img": "As_soon_as_possible.svg",
+          "label": "Lo más pronto posible" 
+        },
+        {
+          "id": 62,
+          "src_img": "In_the_next_six_month.svg",
+          "label": "En los siguiente 6 meses"
+        },
+        {
+          "id": 63,
+          "src_img": "I_just_want_to_inform_myself.svg",
+          "label": "Sólo quiero informarme"
+        }
+      ]
+    },
+    {
+      "label": "¿Por qué medio quieres que te contactemos?",
+      "options": [
+        {
+          "id": 111,
+          "src_img": "whatsapp.svg",
+          "label": "WhatsApp" 
+        },
+        {
+          "id": 112,
+          "src_img": "mail.svg",
+          "label": "Mail"
+        },
+        {
+          "id": 113,
+          "src_img": "Phone.svg",
+          "label": "Llamada telefónica"
+        }
+      ]
+    }
+  ]
+}

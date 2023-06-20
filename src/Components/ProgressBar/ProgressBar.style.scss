@@ -1,0 +1,16 @@
+.content-progress-bar {
+  height: 5px;
+  width: 100%;
+  background: #fff;
+  border-radius: 5px;
+  position: relative;
+  .status-progress {
+    background: #FF3800;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 33%;
+    border-radius: 5px;
+  }
+}
